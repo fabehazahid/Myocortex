@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../src/assoc_memory_top.sv" \
+"../../../../../src/hamming_distance.sv" \
+"../../../../../src/popcount.sv" \
+"../../../../../src/xor_bind.sv" \
+"../../../../../tb/tb_assoc_memory_top.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

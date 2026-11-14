@@ -1,0 +1,14 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: E:/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 979284d86c2043c5b0d8d11670e6b4f2 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_feature_rms_behav xil_defaultlib.tb_feature_rms xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "E:/CE-45/FYP/Code/src/feature_rms.sv" Line 41. Module feature_rms_default doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.feature_rms_default
+Compiling module xil_defaultlib.tb_feature_rms
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_feature_rms_behav

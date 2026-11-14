@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../src/hdc_encoder_top.sv" \
+"../../../../../src/id_rom.sv" \
+"../../../../../src/level_rom.sv" \
+"../../../../../src/majority_bundle.sv" \
+"../../../../../src/popcount.sv" \
+"../../../../../src/xor_bind.sv" \
+"../../../../../tb/tb_hdc_encoder_top.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

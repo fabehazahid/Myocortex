@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/CE-45/FYP/Code/src/feature_rms.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module feature_rms
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/CE-45/FYP/Code/tb/tb_feature_rms.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_feature_rms

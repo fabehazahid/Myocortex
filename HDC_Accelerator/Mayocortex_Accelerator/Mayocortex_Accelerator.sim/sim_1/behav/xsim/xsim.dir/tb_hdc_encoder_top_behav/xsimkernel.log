@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_hdc_encoder_top_behav/xsimk.exe -simmode gui -wdb tb_hdc_encoder_top_behav.wdb -simrunnum 0 -socket 52549
+Design successfully loaded
+Design Loading Memory Usage: 37392 KB (Peak: 37392 KB)
+Design Loading CPU Usage: 109 ms
+Simulation completed
+Simulation Memory Usage: 66596 KB (Peak: 66596 KB)
+Simulation CPU Usage: 437 ms

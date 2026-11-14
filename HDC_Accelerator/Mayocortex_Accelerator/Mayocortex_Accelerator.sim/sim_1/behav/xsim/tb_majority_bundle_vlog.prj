@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../src/majority_bundle.sv" \
+"../../../../../src/popcount.sv" \
+"../../../../../tb/tb_majority_bundle.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

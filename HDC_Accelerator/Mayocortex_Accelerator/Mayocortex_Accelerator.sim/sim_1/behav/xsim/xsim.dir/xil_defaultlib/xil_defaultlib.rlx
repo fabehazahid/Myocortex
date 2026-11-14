@@ -1,0 +1,21 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+E:/CE-45/FYP/Code/Mayocortex_Accelerator/Mayocortex_Accelerator.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+E:/CE-45/FYP/Code/src/assoc_memory_top.sv,1791702032,systemVerilog,,E:/CE-45/FYP/Code/src/hamming_distance.sv,,assoc_memory_top,,,,,,,,
+E:/CE-45/FYP/Code/src/feature_rms.sv,1791708001,systemVerilog,,E:/CE-45/FYP/Code/tb/tb_feature_rms.sv,,feature_rms,,,,,,,,
+E:/CE-45/FYP/Code/src/hamming_distance.sv,1791103511,systemVerilog,,E:/CE-45/FYP/Code/src/popcount.sv,,hamming_distance,,,,,,,,
+E:/CE-45/FYP/Code/src/hdc_encoder_top.sv,1791704806,systemVerilog,,E:/CE-45/FYP/Code/src/id_rom.sv,,hdc_encoder_top,,,,,,,,
+E:/CE-45/FYP/Code/src/id_rom.sv,1791704749,systemVerilog,,E:/CE-45/FYP/Code/src/level_rom.sv,,id_rom,,,,,,,,
+E:/CE-45/FYP/Code/src/level_rom.sv,1791704777,systemVerilog,,E:/CE-45/FYP/Code/src/majority_bundle.sv,,level_rom,,,,,,,,
+E:/CE-45/FYP/Code/src/majority_bundle.sv,1791104454,systemVerilog,,E:/CE-45/FYP/Code/src/popcount.sv,,majority_bundle,,,,,,,,
+E:/CE-45/FYP/Code/src/popcount.sv,1791016501,systemVerilog,,E:/CE-45/FYP/Code/src/xor_bind.sv,,popcount,,,,,,,,
+E:/CE-45/FYP/Code/src/xor_bind.sv,1791018664,systemVerilog,,E:/CE-45/FYP/Code/tb/tb_hdc_encoder_top.sv,,xor_bind,,,,,,,,
+E:/CE-45/FYP/Code/tb/tb_assoc_memory_top.sv,1791702060,systemVerilog,,,,tb_assoc_memory_top,,,,,,,,
+E:/CE-45/FYP/Code/tb/tb_feature_rms.sv,1791706352,systemVerilog,,,,tb_feature_rms,,,,,,,,
+E:/CE-45/FYP/Code/tb/tb_hamming_distance.sv,1791103031,systemVerilog,,,,tb_hamming_distance,,,,,,,,
+E:/CE-45/FYP/Code/tb/tb_hdc_encoder_top.sv,1791704836,systemVerilog,,,,tb_hdc_encoder_top,,,,,,,,
+E:/CE-45/FYP/Code/tb/tb_majority_bundle.sv,1791099351,systemVerilog,,,,tb_majority_bundle,,,,,,,,
+E:/CE-45/FYP/Code/tb/tb_popcount.sv,1791016790,systemVerilog,,,,tb_popcount,,,,,,,,
+E:/CE-45/FYP/Code/tb/tb_xor_bind.sv,1791018440,systemVerilog,,,,tb_xor_bind,,,,,,,,
