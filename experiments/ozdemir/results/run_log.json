@@ -1,0 +1,39 @@
+{
+  "master_seed": 12345,
+  "seeds": [
+    2688385916,
+    3048105090,
+    4196366895,
+    3152189807,
+    924159892
+  ],
+  "args": {
+    "data_dir": "data/ozdemir_raw",
+    "dsp_dir": "Myocortex/dsp_pipeline",
+    "features": "mav,rms,wl,zc",
+    "no_mains": false,
+    "out_dir": "phase1_ozdemir_final",
+    "master_seed": 12345,
+    "n_seeds": 5,
+    "max_subjects": null,
+    "norm_mode": "global",
+    "quick": false,
+    "plot_check": null
+  },
+  "FS_HZ": 1500,
+  "WIN_LEN": 256,
+  "STEP": 64,
+  "FEATURES": [
+    "mav",
+    "rms",
+    "wl",
+    "zc"
+  ],
+  "NORM_PERCENTILE": 99,
+  "COMPRESS": "none",
+  "TRIM_S": 0.5,
+  "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.5.4",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "timestamp": "2026-11-20 19:57:42"
+}
